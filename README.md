@@ -60,11 +60,5 @@ The **Agentic AI Portfolio Manager** is a multi-agent system that:
 
 ---
 
-## 📌 Status
-- **Day 1**: Environment set up, repo initialized, sample market data pulled.  
-- Progress will be logged daily to show evolution of the project.
-
----
-
 ## 📧 Contact
 Created by Aditya Rallabhandi — exploring **Agentic AI for high-stakes decision systems**.  

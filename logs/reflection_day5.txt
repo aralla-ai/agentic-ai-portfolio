@@ -1,0 +1,3 @@
+Reflection run 2025-09-16 12:42:59.318731
+Metrics: {'CAGR': np.float64(0.04537456477983004), 'Volatility': np.float64(0.16433131022232675), 'Sharpe': np.float64(0.3546885590564063), 'MaxDD': np.float64(-0.08671305577045663)}
+- Sharpe too low — consider reducing risk exposure or adding filters.
