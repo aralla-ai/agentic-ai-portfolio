@@ -1,0 +1,7 @@
+
+As of 2025-09-16, the MA crossover strategy produced:
+- CAGR: 4.54%
+- Volatility: 16.43%
+- Sharpe Ratio: 0.35
+- Max Drawdown: -8.67%
+- Final Value: 1.01x initial capital
