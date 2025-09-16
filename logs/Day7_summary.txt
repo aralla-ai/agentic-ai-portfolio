@@ -1,0 +1,5 @@
+Day 7 run (2025-09-16)
+No Costs Metrics:
+{'CAGR': np.float64(-0.12185634208588725), 'Volatility': np.float64(0.04124301625654238), 'Sharpe': np.float64(-3.175535679227622), 'MaxDD': np.float64(-0.026329927975329626)}
+With Costs Metrics:
+{'CAGR': np.float64(-0.12833817333014008), 'Volatility': np.float64(0.043640200794324485), 'Sharpe': np.float64(-3.170939450981954), 'MaxDD': np.float64(-0.027810032844322374)}
