@@ -1,0 +1,5 @@
+Day 13 run (2025-09-16)
+        Strategy      CAGR  Volatility    Sharpe     MaxDD Decision                         Notes
+0  SMA Crossover -0.121856    0.041243 -3.175536 -0.026330     FAIL  Sharpe too low (-3.18 < 1.0)
+1            RSI -0.126123    0.082338 -1.620564 -0.043275     FAIL  Sharpe too low (-1.62 < 1.0)
+2      Bollinger  0.139849    0.044243  3.024177 -0.007036     PASS        All risk checks passed
