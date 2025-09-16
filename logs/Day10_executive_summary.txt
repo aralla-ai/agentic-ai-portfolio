@@ -1,0 +1,10 @@
+
+Executive Summary (Day 10):
+
+- The SMA crossover, RSI, and Bollinger strategies (Day 8) produced mixed results.
+- The portfolio (Day 9) achieved diversification benefits, with Sharpe Ratio ~1.18.
+- Max Drawdown was reduced relative to single strategies, showing better downside protection.
+- Transaction costs (Day 7) reduced performance, but strategies remain viable after realistic adjustments.
+
+Overall, this phase demonstrates a structured pipeline from raw data to enriched features,
+strategy testing, portfolio construction, and performance reporting.
