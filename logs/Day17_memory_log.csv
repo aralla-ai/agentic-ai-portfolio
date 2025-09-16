@@ -1,0 +1,13 @@
+Strategy,Metrics,Decision,Notes,Reflection,Params
+SMA,"{'CAGR': np.float64(-0.12185634208588725), 'Volatility': np.float64(0.04085269500786983), 'Sharpe': np.float64(-3.1442244227591813), 'MaxDD': np.float64(-0.026329927975329626)}",FAIL,Sharpe too low (-3.14 < 1.0),,
+RSI,"{'CAGR': np.float64(-0.12612316072435692), 'Volatility': np.float64(0.08153467277357707), 'Sharpe': np.float64(-1.6050506423187734), 'MaxDD': np.float64(-0.043274581005586565)}",FAIL,Sharpe too low (-1.61 < 1.0),,
+BB,"{'CAGR': np.float64(0.13984910882294188), 'Volatility': np.float64(0.04382244081992633), 'Sharpe': np.float64(2.9944674019850326), 'MaxDD': np.float64(-0.007035576834644064)}",PASS,All risk checks passed,,
+PORTFOLIO,"{'CAGR': np.float64(0.13984910882294188), 'Volatility': np.float64(0.04382244081992633), 'Sharpe': np.float64(2.9944674019850326), 'MaxDD': np.float64(-0.007035576834644064)}",PASS,All risk checks passed,['All good - no changes needed.'],{}
+SMA,"{'CAGR': np.float64(-0.12185634208588725), 'Volatility': np.float64(0.04085269500786983), 'Sharpe': np.float64(-3.1442244227591813), 'MaxDD': np.float64(-0.026329927975329626)}",FAIL,Sharpe too low (-3.14 < 1.0),,
+RSI,"{'CAGR': np.float64(-0.12612316072435692), 'Volatility': np.float64(0.08153467277357707), 'Sharpe': np.float64(-1.6050506423187734), 'MaxDD': np.float64(-0.043274581005586565)}",FAIL,Sharpe too low (-1.61 < 1.0),,
+BB,"{'CAGR': np.float64(0.13984910882294188), 'Volatility': np.float64(0.04382244081992633), 'Sharpe': np.float64(2.9944674019850326), 'MaxDD': np.float64(-0.007035576834644064)}",PASS,All risk checks passed,,
+PORTFOLIO,"{'CAGR': np.float64(0.13984910882294188), 'Volatility': np.float64(0.04382244081992633), 'Sharpe': np.float64(2.9944674019850326), 'MaxDD': np.float64(-0.007035576834644064)}",PASS,All risk checks passed,['All good - no changes needed.'],{}
+SMA,"{'CAGR': np.float64(-0.12185634208588725), 'Volatility': np.float64(0.04085269500786983), 'Sharpe': np.float64(-3.1442244227591813), 'MaxDD': np.float64(-0.026329927975329626)}",FAIL,Sharpe too low (-3.14 < 1.0),,
+RSI,"{'CAGR': np.float64(-0.12612316072435692), 'Volatility': np.float64(0.08153467277357707), 'Sharpe': np.float64(-1.6050506423187734), 'MaxDD': np.float64(-0.043274581005586565)}",FAIL,Sharpe too low (-1.61 < 1.0),,
+BB,"{'CAGR': np.float64(0.13984910882294188), 'Volatility': np.float64(0.04382244081992633), 'Sharpe': np.float64(2.9944674019850326), 'MaxDD': np.float64(-0.007035576834644064)}",PASS,All risk checks passed,,
+PORTFOLIO,"{'CAGR': np.float64(0.13984910882294188), 'Volatility': np.float64(0.04382244081992633), 'Sharpe': np.float64(2.9944674019850326), 'MaxDD': np.float64(-0.007035576834644064)}",PASS,All risk checks passed,['All good - no changes needed.'],{}
