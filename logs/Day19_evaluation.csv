@@ -1,0 +1,2 @@
+Portfolio,Benchmark,Avg_Past_Sharpe,Decision
+"{'CAGR': np.float64(0.1398491088229432), 'Volatility': np.float64(0.04382244081992615), 'Sharpe': np.float64(2.994467401985038), 'MaxDD': np.float64(-0.007035576834643953)}","{'Sharpe': 0, 'CAGR': 0, 'Volatility': 0, 'MaxDD': 0}",0,ADOPT
